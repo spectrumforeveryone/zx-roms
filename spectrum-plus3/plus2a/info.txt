@@ -1,0 +1,25 @@
+Sinclair ZX Spectrum +2A/B ROM
+
+===
+
+Copyright 1987 Amstrad Plc
+
+===
+
+Compatible with:
+ - ZX Spectrum +2A
+ - ZX Spectrum +2B
+ - ZX Spectrum +3
+
+===
+
+plus2a.rom:
+
+This ROM shipped with the UK Spectrum +2A (PCB Revision Z70833). It is also compatible with the +2B or Plus 3 although you may prefer to use their native ROMs. It is version 4.1 which contains minor bugfixes compared with v4.0 which shipped with the Plus 3.
+
+plus2aesp.rom:
+
+Spahish localisation of the Plus 2A v4.1 ROM.
+
+
+These ROMs are copyright of Amstrad and their owners, and are used with kind permission.

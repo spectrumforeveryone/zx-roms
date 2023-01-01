@@ -2,7 +2,7 @@ Sinclair ZX Spectrum 128K ROM
 
 ===
 
-Copyright 1986 Amstrad Plc
+Copyright 1985, 1986 Amstrad Plc
 
 ===
 
@@ -12,6 +12,25 @@ Compatible with:
 
 ===
 
-This ROM is the original one that shipped with the original Spectrum 128K (Toastrack). It is also compatible with the +2 although you may prefer to use its native ROM.
+spec128uk.rom:
 
-This ROM is copyright of Amstrad and their owners, and is used with kind permission.
+This ROM was shipped with the UK Spectrum 128K Toastrack (PCB Versions 6K, 6U and 9G). It is also compatible with the +2 although you may prefer to use its native ROM.
+
+spec128esp-v1.rom:
+
+First version of the ROM shipped with Spanish 128 machines (typically Version 2 PCB's). It is also compatible with any other 128 or Plus 2 machine.
+
+spec128esp-v2.rom:
+
+Second version of the ROM shipped with Spanish 128 machines (version 2-1 PCB's). The main difference is the insertion of a small timing delay on startup. It is also compatible with any other 128 or Plus 2 machine.
+
+spec128ukderby1.4.rom:
+
+A very early development version of the UK 128's ROM code. 128 editor is still the Spanish one without menus, the copyright messages contain references to the project codename (ROM0 Derby and ROM1 Derby).
+
+spec128uk_4.02.rom
+
+A development version of the UK 128's ROM code, seems to be virtually complete but some bugs in the menu system are present (mostly the omission of screen clearing when exiting the Tape Loader).
+
+
+These ROMs are copyright of Amstrad and their owners, and are used with kind permission.
