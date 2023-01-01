@@ -12,6 +12,17 @@ Compatible with:
 
 ===
 
-This ROM is the original one that shipped with the original Spectrum +2. It is also compatible with the 128 (Toastrack) although you may prefer to use its native ROM.
+plus2uk.rom:
 
-This ROM is copyright of Amstrad and their owners, and is used with kind permission.
+This ROM shipped with the original Spectrum +2 (PCB Revisions Z70500 and Z70700). It is also compatible with the 128 (Toastrack) although you may prefer to use its native ROM.
+
+plus2esp.rom:
+
+Spanish localisation of the UK Plus 2 ROM.
+
+plus2fra.com:
+
+French localisation of the UK Plus 2 ROM.
+
+
+These ROMs are copyright of Amstrad and their owners, and are used with kind permission.

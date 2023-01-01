@@ -19,6 +19,6 @@ Be aware that this structure may change, so do not link directly to files, link 
 
 ## Notes for uploaders
 
-All ROM files must be in a subfolder, even if it is just once file. There must also be an info.txt file created from [info-template.txt](info-template.txt)
+All non-Sinclair ROM files must be in a subfolder, even if it is just one file. There must also be an info.txt file created from [info-template.txt](info-template.txt)
 
 Variants / updates / prototypes must have the original name and a meaningful suffix (ie. spectrum48-ninetiles). Provide full details of the ROM within the info file. 

@@ -1,4 +1,4 @@
-Sinclair ZX Spectrum +3 ROM (Original 4.0)
+Sinclair ZX Spectrum +3 ROM (Original 4.0, bugfixed 4.1)
 
 ===
 
@@ -8,12 +8,24 @@ Copyright 1987 Amstrad Plc
 
 Compatible with:
  - ZX Spectrum +2A / +2B
- - ZX Spectrum +3A / +3B
+ - ZX Spectrum +3 / +3B
 
 ===
 
-This ROM is the original one that shipped with the Spectrum +3 and consists of 4 x 16K ROMs - one each for 48K BASIC and the 128K Editor and two for +3DOS.
+plus3.rom :
 
-It is compatible with the +2A and +2B although they use a slightly newer revision and you would be better off using them.
+This ROM is the original one that shipped with the UK Spectrum +3 (PCB Revision Z70830).
+It is compatible with the +2A and +2B although they use a slightly newer revision (v4.1) compared to this version 4.0.
 
-This ROM is copyright of Amstrad and their owners, and is used with kind permission.
+plus3esp40.rom:
+
+Spanish localisation of the Plus 3 v4.0 ROM.
+
+plus3esp41.rom:
+
+Spanish localisation of the Plus 2A/3 v4.1 ROM, with associated bugfixes (PCB Revision Z70835)
+
+NOTE: UK Plus 3 machines can be fitted with the Plus 2A v4.1 UK ROMs to resolve minor bugs present with v4.0.
+
+
+These ROMs are copyright of Amstrad and their owners, and are used with kind permission.

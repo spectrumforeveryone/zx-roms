@@ -1,0 +1,37 @@
+Sinclair ZX80 / ZX81 ROMs
+
+===
+
+Copyright 1981 Nine Tiles Inc
+
+===
+
+Compatible with:
+ - Sinclair ZX80
+ - Sinclair ZX81
+
+===
+
+zx80.rom
+
+This ROM is the original 4K Integer BASIC ROM that shipped with the Sinclair ZX80, and was writted by Nine Tiles under contract from Science of Cambridge Ltd. (later to become Sinclair Research).
+
+
+zx81-550-original.rom
+
+This ROM is the original 8K floating-point BASIC ROM that shipped with the ZX81, and was available as an upgrade option (with keyboard overlay) for ZX80 users. It became notorious for the Square Root bug (PRINT SQR 0.25 = 1.3591409). 
+
+zx81-550-kludge.rom
+
+Technically this ROM is the same part as shipped on the first ZX81 machines, but a PCB with two 74 series logic IC's is attached to the CPU which intercepts instruction fetches at specific locations to fix the square root bug. Therefore the CPU sees it as a distinct ROM image, which is reproduced here.
+
+zx81-622-improved.rom
+
+This ROM shipped with ZX81 machines to officially fix the original ROM's square root bug, but unfortunately introduced another bug (PAUSE commands could very occasionally crash the machine).
+
+zx81-649-fixed.rom
+
+Final ZX81 ROM version which fixed the 622 version's PAUSE bug.
+
+
+These ROMs are copyright of Nine Tiles Inc and are used with kind permission.

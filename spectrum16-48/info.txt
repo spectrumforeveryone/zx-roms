@@ -1,0 +1,24 @@
+Sinclair ZX Spectrum 16/48K ROM
+
+===
+
+Copyright 1982 Amstrad Plc
+
+===
+
+Compatible with:
+ - ZX Spectrum 16K
+ - ZX Spectrum 48K
+
+===
+
+spec48.rom:
+
+This ROM is the original one that shipped with the Spectrum 48K rubber key and 48 Plus models (PCB Issues 1 through 6A).
+
+spec48-prototype.rom
+
+Version of the ROM recovered from the Spectrum prototype given to Nine Tiles Inc., and currently in the posession of the Centre for Computing History. Several bugs are present, and it appears that this codebase was a continuation of the version that shipped with the Spectrum but was abandoned due to time/cost issues. It implements a more mature channel and stream handling implementation and clearly was intended to drive Microdrives directly.
+
+
+These ROMs are copyright of Amstrad and their owners, and are used with kind permission.
