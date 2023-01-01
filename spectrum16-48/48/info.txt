@@ -1,0 +1,16 @@
+Sinclair ZX Spectrum 48K ROM
+
+===
+
+Copyright 1982 Amstrad Plc
+
+===
+
+Compatible with:
+ - ZX Spectrum 16K / 48K / +
+
+===
+
+This ROM is the original one that shipped with the first Spectrum 48K.
+
+This ROM is copyright of Amstrad and their owners, and is used with kind permission.

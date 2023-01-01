@@ -1,0 +1,19 @@
+Sinclair ZX Spectrum +3 ROM (Original 4.0)
+
+===
+
+Copyright 1987 Amstrad Plc
+
+===
+
+Compatible with:
+ - ZX Spectrum +2A / +2B
+ - ZX Spectrum +3A / +3B
+
+===
+
+This ROM is the original one that shipped with the Spectrum +3 and consists of 4 x 16K ROMs - one each for 48K BASIC and the 128K Editor and two for +3DOS.
+
+It is compatible with the +2A and +2B although they use a slightly newer revision and you would be better off using them.
+
+This ROM is copyright of Amstrad and their owners, and is used with kind permission.

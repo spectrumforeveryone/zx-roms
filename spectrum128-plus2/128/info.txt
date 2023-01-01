@@ -1,0 +1,17 @@
+Sinclair ZX Spectrum 128K ROM
+
+===
+
+Copyright 1986 Amstrad Plc
+
+===
+
+Compatible with:
+ - ZX Spectrum 128K
+ - ZX Spectrum +2
+
+===
+
+This ROM is the original one that shipped with the original Spectrum 128K (Toastrack). It is also compatible with the +2 although you may prefer to use its native ROM.
+
+This ROM is copyright of Amstrad and their owners, and is used with kind permission.
