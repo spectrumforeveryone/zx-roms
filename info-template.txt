@@ -1,0 +1,17 @@
+Sinclair ROM file info
+
+===
+
+Copyright 1982 Amstrad Plc
+
+===
+
+Compatible with:
+ - ZX Spectrum 48K
+ - etc
+
+===
+
+This ROM file contains blah, blah, blah....
+
+COPY THIS FILE IN TO THE NEW SUBFOLDER AND EDIT THE ABOVE TEXT TO PROVIDE AS MUCH INFO ABOUT THE ROM AS POSSIBLE. PROVIDE ALL INFORMATION REGARDING AUTHORS, ACKNOWLEDGMENTS, USAGE RIGHTS ETC
