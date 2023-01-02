@@ -1,0 +1,23 @@
+Sinclair ZX Interface 1 ROM
+
+===
+
+Copyright 1982 Amstrad Plc
+
+===
+
+Compatible with:
+ - ZX Interface 1 (with Spectrum 16K/48K/128K/Grey +2)
+
+===
+
+Interface1-v1.rom:
+
+This ROM is the original one that shipped with the Interface 1.
+
+Interface1-v2.rom
+
+This ROM shipped with later Interface 1 units, and contains various bugfixes and improvements (access speed etc).
+
+
+These ROMs are copyright of Amstrad and their owners, and are used with kind permission.

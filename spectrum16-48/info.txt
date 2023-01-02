@@ -20,5 +20,21 @@ spec48-prototype.rom
 
 Version of the ROM recovered from the Spectrum prototype given to Nine Tiles Inc., and currently in the posession of the Centre for Computing History. Several bugs are present, and it appears that this codebase was a continuation of the version that shipped with the Spectrum but was abandoned due to time/cost issues. It implements a more mature channel and stream handling implementation and clearly was intended to drive Microdrives directly.
 
+spec48-beckman.rom
+
+Swedish localisation of the Spectrum ROM for that market, allows display of Swedish characters Å, Ä and Ö, as well as fixing some ROM bugs (NMIADD handling, STR$ bug). Also has a markedly different reset sequence with coloured blocks instead of the red lines on black paper effect of the original ROM.
+
+spec48-arabic-v1.rom
+
+Arabic localisation of the Spectrum ROM. Version 1
+
+spec48-arabic-v2.rom
+
+Arabic localisation of the Spectrum ROM. Version 2
+
+spec48-arabic-v31.rom
+
+Arabic localisation of the Spectrum ROM. Version 3.1
+
 
 These ROMs are copyright of Amstrad and their owners, and are used with kind permission.
